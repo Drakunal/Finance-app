@@ -1,4 +1,5 @@
 # Finance-app
+
 Using streamlit
 
-Run it by *streamlit run app.py*
+Run it by _streamlit run app.py_
